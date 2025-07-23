@@ -1,17 +1,14 @@
-## Hi there 👋
+##  👨‍💻 About Me
+
+👋 Hi there, I'm Deepak Pandey!
+
+.🎓 I'm a 3rd year BCA student passionate about Machine Learning and Data Science.  
+.💻 Recently completed a project on Iris Flower Classification using Random Forest.  
+.📂 Check it out here: [Iris Classification GitHub Repo](https://github.com/DeepakPandey2004/Iris-Flower-Classification)
 
 
-**DeepakPandey2004
 
-## 👋 Hi there, I'm Deepak Pandey!
-
-🎓 I'm a 3rd year BCA student passionate about Machine Learning and Data Science.  
-💻 Recently completed a project on Iris Flower Classification using Random Forest.  
-📂 Check it out here: [Iris Classification GitHub Repo](https://github.com/DeepakPandey2004/Iris-Flower-Classification)
-
----
-
-### 🚀 Skills
+ 🚀 Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9cf?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -19,14 +16,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 📈 GitHub Stats
+ 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakPandey2004&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakPandey2004&layout=compact&theme=tokyonight)
 
 
 
-### 📫 Connect With Me
+ 📫 Connect With Me
 📧 Email: whynotdeepaks@gmail.com  
 📷 Instagram: [@diipak2005](https://instagram.com/diipak2005)  
 📬 Telegram: @deepakpandey12
