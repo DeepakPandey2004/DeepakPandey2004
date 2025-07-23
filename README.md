@@ -12,6 +12,8 @@
 
 
  🚀 Skills
+
+ <br>
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9cf?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
