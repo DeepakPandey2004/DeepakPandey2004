@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**DeepakPandey2004/DeepakPandey2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DeepakPandey2004
 
 ## 👋 Hi there, I'm Deepak Pandey!
 
