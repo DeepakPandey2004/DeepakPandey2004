@@ -22,10 +22,6 @@
 <br>
 
 
-
- 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakPandey2004&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakPandey2004&layout=compact&theme=tokyonight)
 
 <br>
