@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **DeepakPandey2004/DeepakPandey2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 👋 Hi there, I'm Deepak Pandey!
@@ -17,14 +17,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakPandey2004&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakPandey2004&layout=compact&theme=tokyonight)
 
----
+
 
 ### 📫 Connect With Me
 📧 Email: whynotdeepaks@gmail.com  
