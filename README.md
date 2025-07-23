@@ -1,9 +1,11 @@
  👨‍💻 About Me
 
-👋 Hi there, I'm Deepak Pandey!
+ Hi there, I'm Deepak Pandey!
 
 .🎓 I'm a 3rd year BCA student passionate about Machine Learning and Data Science.  
+
 .💻 Recently completed a project on Iris Flower Classification using Random Forest.  
+
 .📂 Check it out here: [Iris Classification GitHub Repo](https://github.com/DeepakPandey2004/Iris-Flower-Classification)
 
 <br>
