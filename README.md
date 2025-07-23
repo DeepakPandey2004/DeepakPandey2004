@@ -18,7 +18,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
+<br>
+<br>
 
 
 
@@ -27,7 +28,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakPandey2004&layout=compact&theme=tokyonight)
 
-
+<br>
 
  📫 Connect With Me
 📧 Email: whynotdeepaks@gmail.com  
